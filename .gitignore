@@ -1,0 +1,11 @@
+.cache/
+.dotnet/
+.local/
+.vscode-server/
+mariadb/
+moodledata-persistence/
+*bash*
+.Xauthority
+*.sh
+.wget-hsts
+.profile
