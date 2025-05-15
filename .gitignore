@@ -9,3 +9,4 @@ moodledata-persistence/
 *.sh
 .wget-hsts
 .profile
+.log
