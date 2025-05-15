@@ -10,3 +10,4 @@ moodledata-persistence/
 .wget-hsts
 .profile
 .log
+*.zip
